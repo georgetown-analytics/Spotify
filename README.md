@@ -1,7 +1,8 @@
 # Spotify
 Cohort 19 Capstone Project for the Graduate Certificate of Data Science at Georgetown University School of Continuing Studies.
 
-#Project Details
+Project Detail
+
 Project Topic Create a 20 track generative playlist that collaborates with a Spotify user’s liked tracks to create a lyric driven short story playlist (SSP) where songs glide to each other through a structured narrative.
 
 Members Adam Goldstein (Project Coordinator) - amg413@georgetown.edu Patricia Merino - pm1144@georgetown.edu Navneet Sandhu - nks45@georgetown.edu Nicholas Merkling (Statistician) - nm976@georgetown.edu
