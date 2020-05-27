@@ -35,11 +35,6 @@ Available languages
 * Ukrainian
 * Vietnamese
 
-Contributing
------------------
-You know how ;)
-
-
 Programming languages support
 -----------------------------
 
