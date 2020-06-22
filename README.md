@@ -1,16 +1,16 @@
 # Spotify
 Cohort 19 Capstone Project for the Graduate Certificate of Data Science at Georgetown University School of Continuing Studies.
 
+# Members
+Adam Goldstein (Project Coordinator) - amg413@georgetown.edu '/n'
+Patricia Merino - pm1144@georgetown.edu /n
+Navneet Sandhu - nks45@georgetown.edu /n
+Nicholas Merkling (Statistician) - nm976@georgetown.edu
+
 # Hypothesis Statements
 We believe that creating playlists driven by lyrical content can give the user a glimpse into thematic sequences that exist within their “liked” tracks.
 
 We believe sonic variation in a playlist can be achieved by ordering the tracks according to a valence-energy curve, thus delivering a captivating listening experience.
-
-### Members
-Adam Goldstein (Project Coordinator) - amg413@georgetown.edu /n
-Patricia Merino - pm1144@georgetown.edu /n
-Navneet Sandhu - nks45@georgetown.edu /n
-Nicholas Merkling (Statistician) - nm976@georgetown.edu
 
 # Abstract
 Spotify offers a plethora of playlists ranging from types of moods to genres.  However, some playlists, such as “POLLEN”, declare itself as a genre-less playlist. Our playlist methodology expands on the idea of a genre-less playlist by connecting tracks through their lyrical message and themes rather than genre.  Our product is called a Thematic Sequence Playlist (TSP).  The TSP is created by collaborating with a Spotify user’s “liked tracks” to create a ten to twenty track playlist where tracks are linked through a structured lyrical theme.
