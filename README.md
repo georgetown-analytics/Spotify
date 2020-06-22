@@ -23,7 +23,6 @@ POLLEN is “a playlist based around a radical premise: It was not organized by 
 # Deliverables
 
 1. [Presentation](https://github.com/georgetown-analytics/Spotify/blob/master/7_Reports/Spotify-TSP%20Presentation.pdf) 
-<br />
 2. [Final Report](https://github.com/georgetown-analytics/Spotify/blob/master/7_Reports/Spotify-TSP-FinalReport.pdf)
 
 
