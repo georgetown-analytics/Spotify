@@ -2,7 +2,8 @@
 Cohort 19 Capstone Project for the Graduate Certificate of Data Science at Georgetown University School of Continuing Studies.
 
 # Members
-Adam Goldstein (Project Coordinator) - amg413@georgetown.edu /newline
+Adam Goldstein (Project Coordinator) - amg413@georgetown.edu
+<br />
 Patricia Merino - pm1144@georgetown.edu /n
 Navneet Sandhu - nks45@georgetown.edu /n
 Nicholas Merkling (Statistician) - nm976@georgetown.edu
