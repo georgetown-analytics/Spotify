@@ -4,8 +4,10 @@ Cohort 19 Capstone Project for the Graduate Certificate of Data Science at Georg
 # Members
 Adam Goldstein (Project Coordinator) - amg413@georgetown.edu
 <br />
-Patricia Merino - pm1144@georgetown.edu \n
-Navneet Sandhu - nks45@georgetown.edu /n
+Patricia Merino - pm1144@georgetown.edu
+<br />
+Navneet Sandhu - nks45@georgetown.edu
+<br />
 Nicholas Merkling (Statistician) - nm976@georgetown.edu
 
 # Hypothesis Statements
