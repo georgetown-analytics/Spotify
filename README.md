@@ -6,7 +6,7 @@ We believe that creating playlists driven by lyrical content can give the user a
 
 We believe sonic variation in a playlist can be achieved by ordering the tracks according to a valence-energy curve, thus delivering a captivating listening experience.
 
-# Members
+### Members
 Adam Goldstein (Project Coordinator) - amg413@georgetown.edu /n
 Patricia Merino - pm1144@georgetown.edu /n
 Navneet Sandhu - nks45@georgetown.edu /n
