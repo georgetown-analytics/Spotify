@@ -3,7 +3,7 @@ Cohort 19 Capstone Project for the Graduate Certificate of Data Science at Georg
 
 Project Detail
 
-#Hypothesis Statements
+##Hypothesis Statements
 We believe that creating playlists driven by lyrical content can give the user a glimpse into thematic sequences that exist within their “liked” tracks.
 
 We believe sonic variation in a playlist can be achieved by ordering the tracks according to a valence-energy curve, thus delivering a captivating listening experience.
