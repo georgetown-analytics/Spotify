@@ -2,13 +2,13 @@
 Cohort 19 Capstone Project for the Graduate Certificate of Data Science at Georgetown University School of Continuing Studies.
 
 # Members
-Adam Goldstein (Project Coordinator) - amg413@georgetown.edu
+Adam Goldstein (Project Coordinator) - https://www.linkedin.com/in/adammgoldstein1/
 <br />
-Patricia Merino - pm1144@georgetown.edu
+Patricia Merino - merinopc@gmail.com | www.linkedin.com/in/patriciamerino7 
 <br />
-Navneet Sandhu - nks45@georgetown.edu
+Navneet Sandhu - nav.sandhu03@gmail.com | www.linkedin.com/in/navneetksandhu2
 <br />
-Nicholas Merkling (Statistician) - nm976@georgetown.edu
+Nicholas Merkling (Statistician) - merknc08@gmail.com | https://www.linkedin.com/in/nicholas-merkling/
 
 # Hypothesis Statements
 We believe that creating playlists driven by lyrical content can give the user a glimpse into thematic sequences that exist within their “liked” tracks.
