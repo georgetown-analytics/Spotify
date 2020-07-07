@@ -6,7 +6,7 @@ Adam Goldstein (Project Coordinator) - https://www.linkedin.com/in/adammgoldstei
 <br />
 Patricia Merino - merinopc@gmail.com | www.linkedin.com/in/patriciamerino7 
 <br />
-Navneet Sandhu - nav.sandhu03@gmail.com | www.linkedin.com/in/navneetksandhu2
+Navneet Sandhu - nav.sandhu03@gmail.com | www.linkedin.com/in/navneetksandhu
 <br />
 Nicholas Merkling (Statistician) - merknc08@gmail.com | https://www.linkedin.com/in/nicholas-merkling/
 
